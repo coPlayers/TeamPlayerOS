@@ -1,7 +1,7 @@
 <template>
   <header id="header">
     <div class="logo">
-      <router-link to="/">Service Retail Engine</router-link>
+      <router-link to="/">Bank Engine</router-link>
     </div>
     <nav>
       <ul>

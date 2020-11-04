@@ -1,4 +1,4 @@
-# Retail Engine - Retail Services & Monetization
+# Bank Engine - Retail Services & Monetization OS
 
 collaboration engine / social monetization protocol - PoC
 
