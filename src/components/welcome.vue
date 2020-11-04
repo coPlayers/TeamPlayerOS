@@ -1,7 +1,7 @@
 <template>
   <div id="welcome">
-    <h1>Money @ AI Speed</h1>
-    <p>serve > monetize > repeat 24/7 - 1st gen. DNA OS</p>
+    <h1>Banking @ AI Speed</h1>
+    <p>24/7 banking & service monetization - 1st gen DNA OS</p>
     <div class="cta">
       <router-link to="/signup">Sign Up</router-link>
       <router-link to="/signin">Sign In</router-link>
