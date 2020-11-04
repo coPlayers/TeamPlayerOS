@@ -1,4 +1,4 @@
-# Social Engine - Development & Monetization Engine
+# Retail Engine - Retail Services & Monetization
 
 collaboration engine / social monetization protocol - PoC
 
