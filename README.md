@@ -1,4 +1,4 @@
-# Test Engine - Test Bank & Monetization OS
+# Player Engine - Dev & Play Monetizer
 
 collaboration engine / social monetization protocol - PoC
 

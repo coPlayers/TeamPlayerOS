@@ -1,7 +1,7 @@
 <template>
   <div id="welcome">
-    <h1>Testing @ AI Speed</h1>
-    <p>test > monetize > repeat 24/7 - 1st gen. DNA OS</p>
+    <h1>Player @ AI Speed</h1>
+    <p>win > monetize > repeat 24/7 - 1st gen. DNA OS</p>
     <div class="cta">
       <router-link to="/signup">Sign Up</router-link>
       <router-link to="/signin">Sign In</router-link>
