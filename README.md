@@ -1,4 +1,4 @@
-# Player Engine - Dev & Play Monetizer
+# Team Player Engine - Dev & Play Monetizer
 
 collaboration engine / social monetization protocol - PoC
 

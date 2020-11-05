@@ -1,7 +1,7 @@
 <template>
   <header id="header">
     <div class="logo">
-      <router-link to="/">Dev Player</router-link>
+      <router-link to="/">Team Player OS</router-link>
     </div>
     <nav>
       <ul>
